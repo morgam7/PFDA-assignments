@@ -1,8 +1,10 @@
 # Weekly Assignments Repository
 
+![Panda Eating Computer](panda_eating_laptop.png)
+
 This is the repository containing all the weekly assignments for the Programming for Data Analytics module of the [Higher Diploma in Science in Data Analytics given by ATU Galway-Mayo](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics). My lecturer is [Andrew Beatty](https://github.com/andrewbeattycourseware?tab=overview&from=2022-12-01&to=2022-12-31). He set us four assignments to explore different aspects of data analysis using Python, pandas, and matplotlib. My code is far from perfect, but I hope it gets the job done. Below is an overview of what each task involves and some highlights of what I learned along the way.
 
-To create this repository, I installed Python using [Anaconda](https://www.anaconda.com/download), and I used [Visual Studio Code](https://code.visualstudio.com/) as a text editor and terminal.
+To create this repository, I installed Python using [Anaconda](https://www.anaconda.com/download), and I used [Visual Studio Code](https://code.visualstudio.com/) as a text editor and terminal. The image of the panda eating a computer was generated using OpenAI's DALL·E.
 
 ## Task Overview
 
@@ -29,24 +31,25 @@ I relied on Python libraries like pandas and matplotlib throughout these assignm
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - I also used Chat GPT when I found myself stumped. It was useful at explaining very specific problems I was having quickly, but it also got a few things wrong! 
 
-- Other links to resources:
-    https://www.geeksforgeeks.org/how-to-plot-value-counts-in-pandas/
-    https://www.boardinfinity.com/blog/learn-about-reset-index-pandas/
-    https://stackoverflow.com/questions/31328861/replacing-header-with-top-row/https://www.statology.org/pandas-set-first-row-as-header/
-    https://www.datacamp.com/tutorial/pandas-read-csv/
-    https://stackoverflow.com/questions/72468073/pandas-index-column-name-issue-when-reading-csv/
-    https://www.geeksforgeeks.org/how-to-fill-nan-values-with-mean-in-pandas/
-    https://www.w3resource.com/python-exercises/pandas_numpy/pandas_numpy-exercise-15.php/
-    https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html/
-    https://www.geeksforgeeks.org/convert-a-dataframe-column-to-integer-in-pandas/
-    https://stackoverflow.com/questions/43445125/pandas-groupby-datetime-function-does-not-preserve-dtype/
-    https://stackoverflow.com/questions/13361326/preserving-datetime-index-in-groupby-operation/
-    https://realpython.com/pandas-groupby/
-    https://www.geeksforgeeks.org/how-to-make-a-time-series-plot-with-rolling-average-in-python/
-    https://learnpython.com/blog/average-in-matplotlib/
-    https://towardsdatascience.com/time-travel-made-easy-a-comprehensive-guide-to-python-datetime-326dd1c57391/
-    https://www.statology.org/pandas-group-by-month/
-    https://stackoverflow.com/questions/41642126/matplotlib-customize-pie-chart-labels-and-dropshadow/
+- Other links to resources:  
+    https://www.geeksforgeeks.org/how-to-plot-value-counts-in-pandas/  
+    https://www.boardinfinity.com/blog/learn-about-reset-index-pandas/  
+    https://stackoverflow.com/questions/31328861/replacing-header-with-top-row/  
+    https://www.statology.org/pandas-set-first-row-as-header/  
+    https://www.datacamp.com/tutorial/pandas-read-csv/  
+    https://stackoverflow.com/questions/72468073/pandas-index-column-name-issue-when-reading-csv/  
+    https://www.geeksforgeeks.org/how-to-fill-nan-values-with-mean-in-pandas/  
+    https://www.w3resource.com/python-exercises/pandas_numpy/pandas_numpy-exercise-15.php/  
+    https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html/  
+    https://www.geeksforgeeks.org/convert-a-dataframe-column-to-integer-in-pandas/  
+    https://stackoverflow.com/questions/43445125/pandas-groupby-datetime-function-does-not-preserve-dtype/  
+    https://stackoverflow.com/questions/13361326/preserving-datetime-index-in-groupby-operation/  
+    https://realpython.com/pandas-groupby/  
+    https://www.geeksforgeeks.org/how-to-make-a-time-series-plot-with-rolling-average-in-python/  
+    https://learnpython.com/blog/average-in-matplotlib/  
+    https://towardsdatascience.com/time-travel-made-easy-a-comprehensive-guide-to-python-datetime-326dd1c57391/  
+    https://www.statology.org/pandas-group-by-month/  
+    https://stackoverflow.com/questions/41642126/matplotlib-customize-pie-chart-labels-and-dropshadow/  
 
 
 
