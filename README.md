@@ -1,4 +1,4 @@
-# Weekly Assignments Repository
+# Weekly Assignments
 
 ![Panda Eating Computer](panda_eating_laptop.png)
 
